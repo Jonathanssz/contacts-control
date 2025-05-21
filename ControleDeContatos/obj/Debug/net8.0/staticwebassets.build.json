@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hmu28igdIvCSg0C6NvtUczu/T5ZhBeD5Qtcces5aP7c=",
+  "Hash": "Re3dPinTlxwtywaD64mxggyLQMWGXN3ct7p9InpI+8Y=",
   "Source": "ControleDeContatos",
   "BasePath": "_content/ControleDeContatos",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "7w0cnyheyc",
+      "Integrity": "eaFGfXkyi2e4dVuIHY19N7mXmIf1stKAn6hvIl8PiNc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xtxxf3hu2r",
-      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
+      "Fingerprint": "pu3kbnooif",
+      "Integrity": "gXd6ltLiKpQ0zNRsj/Wn0Z6gKVGoqq9+TlmKqbWeg40=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -2745,7 +2745,7 @@
       ]
     },
     {
-      "Route": "css/site.c2tiyv64ts.css",
+      "Route": "css/site.7w0cnyheyc.css",
       "AssetFile": "C:\\Users\\jonat\\Desktop\\Projects\\ControleDeContatos\\ControleDeContatos\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2755,7 +2755,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "560"
         },
         {
           "Name": "Content-Type",
@@ -2763,11 +2763,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"eaFGfXkyi2e4dVuIHY19N7mXmIf1stKAn6hvIl8PiNc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 16:03:44 GMT"
+          "Value": "Wed, 21 May 2025 22:41:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2777,7 +2777,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "7w0cnyheyc"
         },
         {
           "Name": "label",
@@ -2785,7 +2785,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-eaFGfXkyi2e4dVuIHY19N7mXmIf1stKAn6hvIl8PiNc="
         }
       ]
     },
@@ -2800,7 +2800,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "560"
         },
         {
           "Name": "Content-Type",
@@ -2808,11 +2808,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"eaFGfXkyi2e4dVuIHY19N7mXmIf1stKAn6hvIl8PiNc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 16:03:44 GMT"
+          "Value": "Wed, 21 May 2025 22:41:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2822,7 +2822,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-eaFGfXkyi2e4dVuIHY19N7mXmIf1stKAn6hvIl8PiNc="
         }
       ]
     },
@@ -5139,7 +5139,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "306"
         },
         {
           "Name": "Content-Type",
@@ -5147,11 +5147,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"gXd6ltLiKpQ0zNRsj/Wn0Z6gKVGoqq9+TlmKqbWeg40=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 16:03:44 GMT"
+          "Value": "Wed, 21 May 2025 22:46:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5161,12 +5161,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-gXd6ltLiKpQ0zNRsj/Wn0Z6gKVGoqq9+TlmKqbWeg40="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
+      "Route": "js/site.pu3kbnooif.js",
       "AssetFile": "C:\\Users\\jonat\\Desktop\\Projects\\ControleDeContatos\\ControleDeContatos\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5176,7 +5176,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "306"
         },
         {
           "Name": "Content-Type",
@@ -5184,11 +5184,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"gXd6ltLiKpQ0zNRsj/Wn0Z6gKVGoqq9+TlmKqbWeg40=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 16:03:44 GMT"
+          "Value": "Wed, 21 May 2025 22:46:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5198,7 +5198,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "pu3kbnooif"
         },
         {
           "Name": "label",
@@ -5206,7 +5206,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-gXd6ltLiKpQ0zNRsj/Wn0Z6gKVGoqq9+TlmKqbWeg40="
         }
       ]
     },
