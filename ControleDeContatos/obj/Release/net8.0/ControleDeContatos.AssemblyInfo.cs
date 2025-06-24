@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-ControleDeContatos-271083f1-5249-4e23-bd8a-8f1895d23f56")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControleDeContatos")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+948ecd771a571a81385d591bd7fee14a62b4c4c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControleDeContatos")]
